@@ -60,10 +60,6 @@ p {
     border-radius: 5px;
 }
 
-.button-box button:hover {
-    background-color: #4598a0;
-}
-
 .result-container {
     margin-top: 20px;
     padding: 10px;
